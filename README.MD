@@ -1,5 +1,9 @@
 # v4-52-ace-of-chains Github repo
 
+## 25.11.17 Main scenes
+- Stretch window
+  - Change main scenes and Project settings to stretch window
+
 ## @TODO
 - Proto windows for orders and queues
 - Proto map with mines and facilities
@@ -7,7 +11,7 @@
 ## @BACKLOG
 - @BUG in Tube asset - do not use it!
 
-## 25.11.16 Chains Web project
+## @BAD 25.11.16 Chains Web project
 - Export index.html
 - Deploy via Github Pages:
   - disable CORS in export settings
