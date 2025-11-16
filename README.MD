@@ -11,10 +11,14 @@
   - Bituminium 
   - Magnetite and Iron
 - Add MainMenu White theme by Yanel
-- Add Demos:
+- Add Zips and [Assets](https://godotengine.org/asset-library/asset?user=Godot%20Engine):
 	| MainMenu-MP
-	| websocket_multiplayer
-  - [Assets](https://godotengine.org/asset-library/asset?user=Godot%20Engine)
-- Download import presets
+	| gui_...
+	| ..._multiplayer
+- Add Multiplayer asset
+- Add and SQLite asset
+
+## @BACKLOG
+- Download import presets*
 - Export for web and test on GitHub*
   - [YouTube](https://www.youtube.com/watch?v=CkQzRnDUEko)
