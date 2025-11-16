@@ -9,6 +9,11 @@
 
 ## 25.11.16 Chains Web project
 - Export index.html
+- Deploy via Github Pages:
+  - disable CORS in export settings
+- Deploy via Github Pages: 
+- Tested: @ERROR:
+	Uncaught (in promise) CompileError: WebAssembly.instantiateStreaming(): expected magic word
 
 ## 25.11.16 Chains Jump-In project
 - Create blank Godot 4.52 project
