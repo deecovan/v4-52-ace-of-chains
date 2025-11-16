@@ -1,4 +1,4 @@
-[gd_scene load_steps=9 format=3 uid="uid://gxklsq2x4tps"]
+[gd_scene load_steps=9 format=3 uid="uid://qxklsq2x4tps"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_11"]
 resource_name = "theme_toggle_button"
