@@ -14,6 +14,7 @@
 - Add Demos:
 	| MainMenu-MP
 	| websocket_multiplayer
+  - [Assets](https://godotengine.org/asset-library/asset?user=Godot%20Engine)
 - Download import presets
 - Export for web and test on GitHub*
-  - (YouTube)[https://www.youtube.com/watch?v=CkQzRnDUEko]
+  - [YouTube](https://www.youtube.com/watch?v=CkQzRnDUEko)
