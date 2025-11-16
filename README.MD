@@ -4,6 +4,12 @@
 - Proto windows for orders and queues
 - Proto map with mines and facilities
 
+## @BACKLOG
+- @BUG in Tube asset - do not use it!
+
+## 25.11.16 Chains Web project
+- Export index.html
+
 ## 25.11.16 Chains Jump-In project
 - Create blank Godot 4.52 project
 - Add images:
@@ -15,10 +21,4 @@
 	| MainMenu-MP
 	| gui_...
 	| ..._multiplayer
-- Add Multiplayer asset
-- Add and SQLite asset
 
-## @BACKLOG
-- Download import presets*
-- Export for web and test on GitHub*
-  - [YouTube](https://www.youtube.com/watch?v=CkQzRnDUEko)
