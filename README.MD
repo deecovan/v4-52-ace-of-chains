@@ -1,5 +1,8 @@
 # v4-52-ace-of-chains Github repo
 
+## Docs
+- Add SCM Docs and sttock Images
+
 ## 25.11.17 Main scenes
 - Stretch window
   - Change main scenes and Project settings to stretch window
